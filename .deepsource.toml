@@ -1,0 +1,17 @@
+version = 1
+
+[[analyzers]]
+name = "test-coverage"
+
+[[analyzers]]
+name = "scala"
+
+[[analyzers]]
+name = "dart-analyze"
+type = "community"
+
+[[analyzers]]
+name = "terraform"
+
+[[analyzers]]
+name = "swift"
